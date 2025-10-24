@@ -1,0 +1,34 @@
+{
+  "brand": {
+    "serverName": "NEXUS Community",
+    "color": "#00A3FF",
+    "bannerUrl": "",
+    "logoUrl": ""
+  },
+  "autopost": {
+    "enabled": true,
+    "channelId": "",
+    "types": [
+      "meme",
+      "quote",
+      "fact"
+    ],
+    "intervalMin": 180,
+    "lastPost": 0
+  },
+  "level": {
+    "messageXp": 5,
+    "cooldownSec": 60,
+    "thresholds": [
+      {
+        "level": 5,
+        "roleName": "VIP"
+      },
+      {
+        "level": 10,
+        "roleName": "Elite"
+      }
+    ]
+  },
+  "guildSetup": {}
+}
